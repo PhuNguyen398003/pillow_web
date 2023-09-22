@@ -1,6 +1,6 @@
-import React from 'react'
+import React from "react"
 
-export default function HeaderButton(props) {
+function HeaderButton(props) {
 
     const { attributes , style , children , clicking } = props
 
@@ -16,3 +16,5 @@ export default function HeaderButton(props) {
     </>
   )
 }
+
+export default HeaderButton;
