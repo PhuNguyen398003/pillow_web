@@ -1,0 +1,26 @@
+
+.App{
+  border: 1px red dashed;
+  width: 99vw;
+  height: 99vh;
+  
+}
+
+
+@import url(./components/Header.css);
+
+
+@import url(./pages/Home.css);
+@import url(./pages/About.css);
+@import url(./pages/Contact.css);
+
+
+@import url(./components/Footer.css);
+
+.border_orange {
+  border: 1px orange dashed;
+}
+
+.border_red {
+  border: 1px red dashed;
+}
