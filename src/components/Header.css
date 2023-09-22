@@ -11,6 +11,7 @@
     align-items: center;
 }
 
+
 .header_title {
     font-size: 3vmin;
     height: 5vmin;
@@ -21,6 +22,7 @@
     align-items: center;
 }
 
+
 .header_btn_div {
     width: 9vmin;
     height: 4vmin;
@@ -28,6 +30,7 @@
     display: flex;
     justify-content: space-around;
 }
+
 
 .header_btn {
     cursor: pointer;
